@@ -15,3 +15,4 @@ function prevSlide() {
         currentIndex = totalImages;
     }
     document.getElementById('sliderImage').src = 'image' + currentIndex + '.jpg';
+}
