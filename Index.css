@@ -1,17 +1,25 @@
+<<<<<<< HEAD
 /* Additional CSS styles and animations */
+=======
+>>>>>>> master
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
+<<<<<<< HEAD
     transition: background-color 0.3s ease;
 }
 
+=======
+}
+>>>>>>> master
 header {
     background-color: #333;
     color: #fff;
     padding: 20px;
     text-align: center;
+<<<<<<< HEAD
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -19,17 +27,25 @@ header:hover {
     background-color: #444;
 }
 
+=======
+}
+>>>>>>> master
 nav {
     background-color: #444;
     padding: 10px;
     text-align: center;
+<<<<<<< HEAD
     transition: background-color 0.3s ease;
 }
 
+=======
+}
+>>>>>>> master
 nav a {
     color: #fff;
     text-decoration: none;
     margin: 0 10px;
+<<<<<<< HEAD
     transition: color 0.3s ease;
 }
 
@@ -37,16 +53,25 @@ nav a:hover {
     color: #f0f0f0;
 }
 
+=======
+}
+nav a:hover {
+    color: #f0f0f0;
+}
+>>>>>>> master
 section {
     padding: 20px;
     text-align: center;
 }
+<<<<<<< HEAD
 
 section:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
 
+=======
+>>>>>>> master
 footer {
     background-color: #333;
     color: #fff;
@@ -55,9 +80,13 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+<<<<<<< HEAD
     transition: background-color 0.3s ease;
 }
 
 footer:hover {
     background-color: #444;
 }
+=======
+}
+>>>>>>> master
